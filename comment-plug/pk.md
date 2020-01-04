@@ -40,7 +40,8 @@
 			"node": true
 		},
 		"extends": [
-			"plugin:vue/essential"
+			"plugin:vue/essential",
+			"eslint:recommended"
 		],
 		"rules": {
 			"no-console": "off",
